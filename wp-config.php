@@ -27,7 +27,7 @@ define( 'DB_NAME', 'live_xl27P' );
 define( 'DB_USER', 'live_user_xl27P' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'GbYc2AyPT2Xi5qEFKyAWZdc7bs1QKtS3Ci' );
+define( 'DB_PASSWORD', 'your-database-password-here' );
 
 /** Database hostname */
 define( 'DB_HOST', 'mysql.10web.site' );
